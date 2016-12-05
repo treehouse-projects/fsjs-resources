@@ -26,6 +26,9 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 ### JavaScript
 
 * **[JS Hint](http://jshint.com/)** - A JavaScript validator
+* **[JavaScript Promises](https://davidwalsh.name/promises)** - JavaScript Promise API
+* **[AJAX Requests: Vanilla JS](https://davidwalsh.name/xmlhttprequest)** - JavaScript AJAX Requests using vanilla JS
+* **[Time Complexity & Big-O Notation(https://medium.freecodecamp.com/time-is-complex-but-priceless-f0abd015063c#.6a4s0p49a)** - Time Complexity & Big-O Notation in Plain English
 
 ### HTML
 
