@@ -3,32 +3,33 @@
 #Treehouse Full Stack JavaScript Techdegree Resources
 
 
-This is a community based list of resources for the [Full Stack JavaScript Techdegree](https://www.teamtreehouse.com). 
+This is a community based list of resources for the [Full Stack JavaScript Techdegree](https://www.teamtreehouse.com).
 
-Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](CONTRIBUTING.md). 
- 
+Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](CONTRIBUTING.md).
+
 ## Index
 
-[JavaScript](#JavaScript) · 
-[HTML](#HTML) · 
-[CSS](#CSS) · 
-[Angular](#Angular) · 
-[Express](#Express) · 
-[Node.js](#Node.js) · 
-[General](#General) · 
-[Slack](#Slack) · 
+[JavaScript](#JavaScript) ·
+[HTML](#HTML) ·
+[CSS](#CSS) ·
+[Angular](#Angular) ·
+[Express](#Express) ·
+[Node.js](#Node.js) ·
+[General](#General) ·
+[Slack](#Slack) ·
 [Career](#Career)
 
 
- 
--------
- 
-### JavaScript
 
+-------
+
+### JavaScript
 * **[JS Hint](http://jshint.com/)** - A JavaScript validator
 * **[JavaScript Promises](https://davidwalsh.name/promises)** - JavaScript Promise API
 * **[AJAX Requests: Vanilla JS](https://davidwalsh.name/xmlhttprequest)** - JavaScript AJAX Requests using vanilla JS
 * **[Time Complexity & Big-O Notation](https://medium.freecodecamp.com/time-is-complex-but-priceless-f0abd015063c#.6a4s0p49a)** - Time Complexity & Big-O Notation in Plain English
+* **[JavaScript Scope and Closures](https://css-tricks.com/javascript-scope-closures/)** - Understanding global and local scope for JavaScript variables
+* **[JavaScript Scope and Closures](https://css-tricks.com/javascript-scope-closures/)** - Understanding global and local scope for JavaScript variables 
 
 ### HTML
 
@@ -52,13 +53,12 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 
 ### General
 
-* 
+*
 
 ### Slack
 
-* 
+*
 
 ### Career
 
 *
-
