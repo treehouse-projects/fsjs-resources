@@ -1,6 +1,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/440px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Logo" height="50px"/>
 
-#Treehouse Full Stack JavaScript Techdegree Resources
+# Treehouse Full Stack JavaScript Techdegree Resources
 
 
 This is a community based list of resources for the [Full Stack JavaScript Techdegree](https://www.teamtreehouse.com).
