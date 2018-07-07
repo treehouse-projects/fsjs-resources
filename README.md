@@ -1,11 +1,17 @@
-<img src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/71057-8d5d40b4a62fd21da2444b852e07ca85-medium_jpg.jpg?buster=1427434086" alt="JavaScript Logo" height="50px"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/440px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Logo" height="50px"/>
-
-
 
 # Treehouse Full Stack JavaScript Techdegree Resources
 
+![Treehouse Logo](repo-imgs/treehouse_and_logo.png "Team Treehouse")
+
+
+![Full Stack JavaScript Techdegree](repo-imgs/fsjs.png "FSJS")
+
+
+![Treehouse Logo](repo-imgs/frogprint.png)
+
+<img src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/71057-8d5d40b4a62fd21da2444b852e07ca85-medium_jpg.jpg?buster=1427434086" alt="JavaScript Logo" height="50px" style="display: inline-block"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/440px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Logo" height="50px"/>
 
 This is a community based list of resources for the [Full Stack JavaScript Techdegree](https://www.teamtreehouse.com).
 
@@ -22,8 +28,6 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 [General](#General) ·
 [Slack](#Slack) ·
 [Career](#Career)
-
-
 
 -------
 
