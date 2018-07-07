@@ -1,4 +1,8 @@
+<img src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/71057-8d5d40b4a62fd21da2444b852e07ca85-medium_jpg.jpg?buster=1427434086" alt="JavaScript Logo" height="50px"/>
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/440px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Logo" height="50px"/>
+
+
 
 # Treehouse Full Stack JavaScript Techdegree Resources
 
