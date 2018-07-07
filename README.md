@@ -8,17 +8,19 @@ Want to help and add resources? Awesome! Checkout the [CONTRIBUTING guidelines](
 
 ## Index
 
-- [JavaScript](#JavaScript) ·
-[HTML](#HTML) ·
-[CSS](#CSS) ·
-[React](#React) ·
-[Node.js](#Node.js) ·
-[Express](#Express) ·
-[MongoDB](#MongoDB) ·
-[SQL](#SQL) ·
-[General](#General) ·
-[Slack](#Slack) ·
-[career](#Career)
+[JavaScript](#javascript) ·
+[HTML](#html) ·
+[CSS](#css) ·
+[React](#react) ·
+[Node.js](#node.js) ·
+[Express](#express) ·
+[Pug](#pug) ·
+[MongoDB](#mongodb) ·
+[SQL](#sqlL)
+
+[General](#general) ·
+[Slack](#slack) ·
+[career](#career)
 
 -------
 
@@ -49,6 +51,10 @@ Want to help and add resources? Awesome! Checkout the [CONTRIBUTING guidelines](
 ## Express
 
 * **[ExpressJS](http://expressjs.com)**
+
+## Pug
+
+* **[Pug](https://pugjs.org/api/getting-started.html)**
 
 ## MongoDB
 
