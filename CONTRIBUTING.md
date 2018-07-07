@@ -1,6 +1,4 @@
-# Suggest resources to add to this repo
-
-![Mike the Frog](repo-imgs/mike_the_frog.png "Hiya, Treehouser!") Nice, you have a cool resource suggestion for this repo? That's awesome!
+# ![Mike the Frog](repo-imgs/mike_the_frog.png "Hiya, Treehouser!") Nice, you have a cool resource suggestion? That's awesome!
 
 To suggest a resouce, you can either reach out in your Slack team's #resources channel, or fork this repository, make changes to the files locally, and then submit pull requests with your changes.
 
