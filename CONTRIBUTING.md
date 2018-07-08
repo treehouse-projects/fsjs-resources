@@ -1,4 +1,4 @@
-# Contribute to this repository ![Treehouse Logo](repo-imgs/frogprint.png "Team Treehouse")
+# Contribute to this repository
 
 You have a resource suggestion?  Nice!  That's awesome!
 
@@ -11,4 +11,4 @@ Please follow the styling and format that currently exists in the [README.md](RE
 
 Thanks a bunch and have a great rest of your day! 
 
-![Mike the Frog](repo-imgs/mike_the_frog.png "Hiya, Treehouser!")
+![Mike the Frog](repo-imgs/mike_the_frog.png "Hiya, Treehouser!") ![Treehouse Logo](repo-imgs/frogprint.png "Team Treehouse")
