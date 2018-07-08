@@ -1,6 +1,6 @@
-![Treehouse Logo](repo-imgs/treehouse_and_logo.png "Team Treehouse")
+# ![Treehouse Logo](repo-imgs/frogprint.png "Team Treehouse") Treehouse
 
-# ![Full Stack JavaScript Techdegree](repo-imgs/fsjs.png "FSJS") Full Stack JavaScript Techdegree Resources
+## ![Full Stack JavaScript Techdegree](repo-imgs/fsjs.png "FSJS") Full Stack JavaScript Techdegree Resources
 
 This is a community based list of resources for the [Full Stack JavaScript Techdegree](https://www.teamtreehouse.com).
 
@@ -32,19 +32,19 @@ Want to help and add resources? Awesome! Checkout the [CONTRIBUTING guidelines](
 * **[JavaScript Scope and Closures](https://css-tricks.com/javascript-scope-closures/)** - Understanding global and local scope for JavaScript variables
 * **[JavaScript Scope and Closures](https://css-tricks.com/javascript-scope-closures/)** - Understanding global and local scope for JavaScript variables 
 
-## ![HTML](repo-imgs/html.png) HTML
+## HTML
 
 * **[HTML Validation](https://validator.w3.org/)**
 
-## ![CSS](repo-imgs/css.png) CSS
+## CSS
 
 * **[CSS Validation](https://jigsaw.w3.org/css-validator/)**
 
-## ![React](repo-imgs/react.png) React
+## React
 
 * **[React](https://reactjs.org/)**
 
-## ![Node](repo-imgs/node.png) Node.js
+## Node.js
 
 * **[NodeJS](https://nodejs.org/en/)**
 
@@ -52,7 +52,7 @@ Want to help and add resources? Awesome! Checkout the [CONTRIBUTING guidelines](
 
 * **[ExpressJS](http://expressjs.com)**
 
-## ![Pug](repo-imgs/pug.png) Pug
+## Pug
 
 * **[Pug](https://pugjs.org/api/getting-started.html)**
 
