@@ -1,6 +1,6 @@
-# ![Treehouse Logo](repo-imgs/frogprint.png "Team Treehouse") Treehouse
+# Treehouse Full Stack JavaScript Techdegree Resources
 
-## ![Full Stack JavaScript Techdegree](repo-imgs/fsjs.png "FSJS") Full Stack JavaScript Techdegree Resources
+![Treehouse Logo](repo-imgs/frogprint.png "Team Treehouse") ![Full Stack JavaScript Techdegree](repo-imgs/fsjs.png "FSJS") ![JavaScript](repo-imgs/js.png)
 
 This is a community based list of resources for the [Full Stack JavaScript Techdegree](https://www.teamtreehouse.com).
 
@@ -24,7 +24,7 @@ Want to help and add resources? Awesome! Checkout the [CONTRIBUTING guidelines](
 
 -------
 
-## ![JavaScript](repo-imgs/js.png) JavaScript
+## JavaScript
 * **[JS Hint](http://jshint.com/)** - A JavaScript validator
 * **[JavaScript Promises](https://davidwalsh.name/promises)** - JavaScript Promise API
 * **[AJAX Requests: Vanilla JS](https://davidwalsh.name/xmlhttprequest)** - JavaScript AJAX Requests using vanilla JS
