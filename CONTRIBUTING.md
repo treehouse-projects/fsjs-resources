@@ -1,8 +1,6 @@
-# Contribute to this repository
+# ![Treehouse Logo](repo-imgs/frogprint.png "Team Treehouse") Contribute to this repository
 
-![Treehouse Logo](repo-imgs/frogprint.png "Team Treehouse") ![Mike the Frog](repo-imgs/mike_the_frog.png "Hiya, Treehouser!")
-
-## You have a resource suggestion?  Nice!  That's awesome!
+You have a resource suggestion?  Nice!  That's awesome!
 
 To suggest a resouce that you would like to see added to this repository, you have two options.  
 
@@ -12,3 +10,5 @@ To suggest a resouce that you would like to see added to this repository, you ha
 Please follow the styling and format that currently exists in the [README.md](README.md) file.  And please include your name, Slack handle and the date in your commit message.
 
 Thanks a bunch and have a great rest of your day! :smiley:
+
+![Mike the Frog](repo-imgs/mike_the_frog.png "Hiya, Treehouser!")

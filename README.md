@@ -1,6 +1,8 @@
+![Treehouse Logo](repo-imgs/treehouse_and_logot.png "Team Treehouse")
+
 # ![Full Stack JavaScript Techdegree](repo-imgs/fsjs.png "FSJS") Treehouse Full Stack JavaScript Techdegree Resources
 
-![Treehouse Logo](repo-imgs/frogprint.png "Team Treehouse") ![JavaScript](repo-imgs/js.png)
+![JavaScript](repo-imgs/js.png)
 
 This is a community based list of resources for the [Full Stack JavaScript Techdegree](https://www.teamtreehouse.com).
 
