@@ -1,6 +1,6 @@
-![Treehouse Logo](repo-imgs/treehouse_and_logot.png "Team Treehouse")
+![Treehouse Logo](repo-imgs/treehouse_and_logo.png "Team Treehouse")
 
-# ![Full Stack JavaScript Techdegree](repo-imgs/fsjs.png "FSJS") Treehouse Full Stack JavaScript Techdegree Resources
+# ![Full Stack JavaScript Techdegree](repo-imgs/fsjs.png "FSJS") Full Stack JavaScript Techdegree Resources
 
 ![JavaScript](repo-imgs/js.png)
 
