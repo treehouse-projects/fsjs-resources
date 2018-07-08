@@ -1,6 +1,6 @@
-# !Contribute to this repository
+# Contribute to this repository
 
-[Treehouse Logo](repo-imgs/frogprint.png "Team Treehouse") ![Mike the Frog](repo-imgs/mike_the_frog.png "Hiya, Treehouser!") 
+![Treehouse Logo](repo-imgs/frogprint.png "Team Treehouse") ![Mike the Frog](repo-imgs/mike_the_frog.png "Hiya, Treehouser!")
 
 ## You have a resource suggestion?  Nice!  That's awesome!
 
