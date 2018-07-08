@@ -24,7 +24,7 @@ Want to help and add resources? Awesome! Checkout the [CONTRIBUTING guidelines](
 
 -------
 
-## ![JavaScript Techdegree](repo-imgs/js.png "FSJS") JavaScript
+## ![JavaScript](repo-imgs/js.png) JavaScript
 * **[JS Hint](http://jshint.com/)** - A JavaScript validator
 * **[JavaScript Promises](https://davidwalsh.name/promises)** - JavaScript Promise API
 * **[AJAX Requests: Vanilla JS](https://davidwalsh.name/xmlhttprequest)** - JavaScript AJAX Requests using vanilla JS
@@ -32,19 +32,19 @@ Want to help and add resources? Awesome! Checkout the [CONTRIBUTING guidelines](
 * **[JavaScript Scope and Closures](https://css-tricks.com/javascript-scope-closures/)** - Understanding global and local scope for JavaScript variables
 * **[JavaScript Scope and Closures](https://css-tricks.com/javascript-scope-closures/)** - Understanding global and local scope for JavaScript variables 
 
-## HTML
+## ![HTML](repo-imgs/html.png) HTML
 
 * **[HTML Validation](https://validator.w3.org/)**
 
-## CSS
+## ![CSS](repo-imgs/css.png) CSS
 
 * **[CSS Validation](https://jigsaw.w3.org/css-validator/)**
 
-## React
+## ![React](repo-imgs/react.png) React
 
 * **[React](https://reactjs.org/)**
 
-## Node.js
+## ![Node](repo-imgs/node.png) Node.js
 
 * **[NodeJS](https://nodejs.org/en/)**
 
@@ -52,7 +52,7 @@ Want to help and add resources? Awesome! Checkout the [CONTRIBUTING guidelines](
 
 * **[ExpressJS](http://expressjs.com)**
 
-## Pug
+## ![Pug](repo-imgs/pug.png) Pug
 
 * **[Pug](https://pugjs.org/api/getting-started.html)**
 
