@@ -22,21 +22,42 @@ Want to help and add resources? Awesome! Checkout the [CONTRIBUTING guidelines](
 
 ## [Stack](lists/stack.md)
 
+A list of helpful resources for the stack covered in Team Treehouse's Full Stack JavaScript Techdegree.
+
+[JavaScript](lists/stack.md/#javascript) ·
+[HTML](lists/stack.md/#html) ·
+[CSS](lists/stack.md/#css) ·
+[React](lists/stack.md/#react) ·
+[npm](lists/stack.md/#npm) ·
+[Node.js](lists/stack.md/#node.js) ·
+[Express](lists/stack.md/#express) ·
+[Pug](lists/stack.md/#pug) ·
+[MongoDB](lists/stack.md/#mongodb) ·
+[SQL](lists/stack.md/#sql)
+
 -------
 
 ## [Projects](lists/projects.md)
+
+Stuck on one of your Techdegree projects?  
 
 -------
 
 ## [Slack](lists/slack.md)
 
+Slack info, tips and tricks.
+
 -------
 
 ## [Success](lists/success.md)
 
+Resources to help you succeed.
+
 -------
 
 ## [Inspiration](lists/inspiration.md)
+
+
 
 -------
 
@@ -47,3 +68,5 @@ Want to help and add resources? Awesome! Checkout the [CONTRIBUTING guidelines](
 ## [Career](lists/career.md)
 
 -------
+
+![Treehouse Logo](repo-imgs/frogprint.png "Team Treehouse")
