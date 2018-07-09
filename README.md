@@ -65,9 +65,9 @@ Felling a little stuck on one of your Full Stack JavaScript Techdegree projects?
 10. [React Front End for your REST API](lists/projects/#10-react-front-end-for-your-rest-api)
 
 ### Previous Versions
-[4. Tic-Tac-Toe](lists/projects/#04-tic-tac-toe) ·
-[6. Content Scraper](lists/projects/#06-content-scraper) ·
-[8. Gulp](lists/projects/#08-gulp)
+[04. Tic-Tac-Toe](lists/projects/#04-tic-tac-toe) ·
+[06. Content Scraper](lists/projects/#06-content-scraper) ·
+[08. Gulp](lists/projects/#08-gulp)
 
 -------
 

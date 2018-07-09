@@ -15,4 +15,8 @@ Motivation, guidance, support and resources to help you succeed in your journey 
 [Career Guidance](career.md) ·
 [Back to Main Index](../README.md)
 
+--------
+
+--------
+
 ![Treehouse Logo](../repo-imgs/frogprint.png "Team Treehouse")

@@ -19,7 +19,8 @@ A list of helpful resources for the stack in Team Treehouse's Full Stack JavaScr
 [Career Guidance](career.md) ·
 [Back to Main Index](../README.md)
 
-[General](#general) ·
+-------
+
 [JavaScript](#javascript) ·
 [HTML](#html) ·
 [CSS](#css) ·
@@ -29,7 +30,8 @@ A list of helpful resources for the stack in Team Treehouse's Full Stack JavaScr
 [Express](#express) ·
 [Pug](#pug) ·
 [MongoDB](#mongodb) ·
-[SQL](#sql)
+[SQL](#sql) ·
+[General](#general)
 
 -------
 
@@ -47,6 +49,11 @@ A list of helpful resources for the stack in Team Treehouse's Full Stack JavaScr
 ## JavaScript
 
 * **[MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
+* **[JS Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)**
+* **[JS Loops and Iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)**
+* **[JS Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)**
+* **[JS Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)**
+* **[ES6](http://es6-features.org/#Constants)**
 * **[JS Cheatsheet](https://htmlcheatsheet.com/js/)**
 * **[JS Snippets](https://css-tricks.com/snippets/javascript/)**
 * **[jQuery docs](https://api.jquery.com/)**
@@ -54,9 +61,21 @@ A list of helpful resources for the stack in Team Treehouse's Full Stack JavaScr
 * **[jQuery Snippets](https://css-tricks.com/snippets/jquery/)**
 * **[JS Hint - A JavaScript validator](http://jshint.com/)**
 
-**Helpful Articles**
+### Code practice
+
+* **[Code Fights - Code Challenges](https://codefights.com/arcade)**
+* **[30 Days of Vanilla JS Coding Challenges](https://javascript30.com/)**
+
+### Regex
+
+* **[Regex Crossword](https://regexcrossword.com/)**
+* **[Regex Golf](https://alf.nu/RegexGolf)**
+* **[Regex One](https://regexone.com/)**
+
+### Helpful Articles
 
 * **[How JS works: an overview of the engine, runtime, and the call stack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)**
+* **[var, let, or const](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75)**
 * **[Time Complexity & Big-O Notation](https://medium.freecodecamp.com/time-is-complex-but-priceless-f0abd015063c#.6a4s0p49a)**
 * **[JavaScript Scope and Closures](https://css-tricks.com/javascript-scope-closures/)**
 * **[JavaScript Promises](https://davidwalsh.name/promises)**
