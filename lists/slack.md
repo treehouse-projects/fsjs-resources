@@ -1,5 +1,5 @@
-[Treehouse Logo](repo-imgs/frogprint.png "Team Treehouse")
+# Slack
 
-# Contribute to this repository
+Slack info, tips and tricks.
 
-You have a resource suggestion?  Nice!  That's awesome!
+![Treehouse Logo](../repo-imgs/frogprint.png "Team Treehouse")

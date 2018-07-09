@@ -1,5 +1,5 @@
-[Treehouse Logo](repo-imgs/frogprint.png "Team Treehouse")
+# Success
 
-# Contribute to this repository
+Motivation, guidance, support and resources to help you succeed in your journey to become a developer.
 
-You have a resource suggestion?  Nice!  That's awesome!
+![Treehouse Logo](repo-imgs/frogprint.png "Team Treehouse")

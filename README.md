@@ -11,18 +11,18 @@ Want to help and add resources? Awesome! Checkout the [CONTRIBUTING guidelines](
 ## Main Index
 
 [Stack](lists/stack.md) ·
-[Projects](lists/projects.md) ·
 [Slack](lists/slack.md) ·
 [Success](lists/success.md) ·
-[Inspiration](lists/inspiration.md) ·
+[Projects](lists/projects.md) ·
 [Design](lists/design.md) ·
 [Career](lists/career.md)
+
 
 -------
 
 ## [Stack](lists/stack.md)
 
-A list of helpful resources for the stack covered in Team Treehouse's Full Stack JavaScript Techdegree.
+A list of helpful resources for the stack in Team Treehouse's Full Stack JavaScript Techdegree.  Links to support docs, helpful articles, snippets, cheatsheets, code practice, etc.
 
 [JavaScript](lists/stack.md/#javascript) ·
 [HTML](lists/stack.md/#html) ·
@@ -37,12 +37,6 @@ A list of helpful resources for the stack covered in Team Treehouse's Full Stack
 
 -------
 
-## [Projects](lists/projects.md)
-
-Stuck on one of your Techdegree projects?  
-
--------
-
 ## [Slack](lists/slack.md)
 
 Slack info, tips and tricks.
@@ -51,21 +45,41 @@ Slack info, tips and tricks.
 
 ## [Success](lists/success.md)
 
-Resources to help you succeed.
+Motivation, guidance, support and resources to help you succeed in your journey to become a developer.
 
 -------
 
-## [Inspiration](lists/inspiration.md)
+## [Projects](lists/projects.md)
 
+Felling a little stuck on one of your Techdegree projects?  You might find something useful in this list of project specific resources.  And remember, if you have a suggestion, or if there's something you'd like to see in here, be sure to check out the [conributing Guidelines](CONTRIBUTING.md). :smiley:
 
+01. [Random Quote Generator](#01. Random Quote Generator)
+02. [Paginate and Filter](#02. Paginate and Filter)
+03. [Interactive Form](#03. Interactive Form)
+04. [OOP Hangman](#)
+05. [Public API Directory](#)
+06. [Static Node and Express Site](#)
+07. [React Flickr Gallery](#)
+08. [SQL Library Manager](#)
+09. [Mongo REST API](#)
+10. [React Front End for your REST API](#)
+
+**Previous Versions**
+04. [Tic-Tac-Toe](#)
+06. [Web Scraping Command Line App](#)
+08. [Gulp](#)
 
 -------
 
 ## [Design](lists/design.md)
 
+Looking to tap into the power of design to spice up your projects?
+
 -------
 
 ## [Career](lists/career.md)
+
+Resources to help with the job search.
 
 -------
 

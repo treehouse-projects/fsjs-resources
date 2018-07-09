@@ -1,5 +1,5 @@
-[Treehouse Logo](repo-imgs/frogprint.png "Team Treehouse")
+# Design
 
-# Contribute to this repository
+Looking to tap into the power of design to spice up your projects?
 
-You have a resource suggestion?  Nice!  That's awesome!
+![Treehouse Logo](repo-imgs/frogprint.png "Team Treehouse")

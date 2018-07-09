@@ -1,5 +1,5 @@
-[Treehouse Logo](repo-imgs/frogprint.png "Team Treehouse")
+# Career
 
-# Contribute to this repository
+Resources to help with the job search.
 
-You have a resource suggestion?  Nice!  That's awesome!
+![Treehouse Logo](repo-imgs/frogprint.png "Team Treehouse")
