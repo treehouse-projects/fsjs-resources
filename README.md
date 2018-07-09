@@ -51,23 +51,23 @@ Motivation, guidance, support and resources to help you succeed in your journey 
 
 ## [Projects](lists/projects.md)
 
-Felling a little stuck on one of your Techdegree projects?  You might find something useful in this list of project specific resources.  And remember, if you have a suggestion, or if there's something you'd like to see in here, be sure to check out the [conributing Guidelines](CONTRIBUTING.md). :smiley:
+Felling a little stuck on one of your Full Stack JavaScript Techdegree projects?  You might find something useful in this list of project specific resources.  And remember, if you have a suggestion, or if there's something you'd like to see in here, be sure to check out the [conributing Guidelines](CONTRIBUTING.md).
 
-1. [Random Quote Generator](#01. Random Quote Generator)
-2. [Paginate and Filter](#02. Paginate and Filter)
-3. [Interactive Form](#03. Interactive Form)
-4. [OOP Hangman](#)
-5. [Public API Directory](#)
-6. [Static Node and Express Site](#)
-7. [React Flickr Gallery](#)
-8. [SQL Library Manager](#)
-9. [Mongo REST API](#)
-10. [React Front End for your REST API](#)
+1. [Random Quote Generator](lists/projects/#1-Random)
+2. [Paginate and Filter](lists/projects/#2-Paginate)
+3. [Interactive Form](lists/projects/#3-Interactive)
+4. [OOP Hangman](lists/projects/#4-OOP)
+5. [Public API Directory](lists/projects/#5-Public)
+6. [Static Node and Express Site](lists/projects/#6-Static)
+7. [React Flickr Gallery](lists/projects/#7-React)
+8. [SQL Library Manager](lists/projects/#8-SQL)
+9. [Mongo REST API](lists/projects/#9-Mongo)
+10. [React Front End for your REST API](lists/projects/#0-React)
 
-**Previous Versions**
-[04. Tic-Tac-Toe](#)
-[06. Web Scraping Command Line App](#)
-[08. Gulp](#)
+## Previous Versions
+[04. Tic-Tac-Toe](lists/projects/#04-Tic-Tac-Toe)
+[06. Web Scraping Command Line App](lists/projects/#06-Web)
+[08. Gulp](lists/projects/#08-Gulp)
 
 -------
 

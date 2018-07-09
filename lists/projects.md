@@ -1,78 +1,78 @@
 # Projects
 
-Felling a little stuck on one of your Techdegree projects?  You might find something useful in this list of project specific resources.  And remember, if you have a suggestion, or if there's something you'd like to see in here, be sure to check out the [conributing Guidelines](CONTRIBUTING.md). :smiley:
+Felling a little stuck on one of your Techdegree projects?  You might find something useful in this list of project specific resources.  And remember, if you have a suggestion, or if there's something you'd like to see in here, be sure to check out the [conributing Guidelines](../CONTRIBUTING.md).
 
-1. [Random Quote Generator](#01. Random Quote Generator)
-2. [Paginate and Filter](#02. Paginate and Filter)
-3. [Interactive Form](#03. Interactive Form)
-4. [OOP Hangman](#)
-5. [Public API Directory](#)
-6. [Static Node and Express Site](#)
-7. [React Flickr Gallery](#)
-8. [SQL Library Manager](#)
-9. [Mongo REST API](#)
-10. [React Front End for your REST API](#)
+[Back to Main Index](../README.md)
 
-**Previous Versions**
-[04. Tic-Tac-Toe](#)
-[06. Web Scraping Command Line App](#)
-[08. Gulp](#)
+1. [Random Quote Generator](#1-Random)
+2. [Paginate and Filter](#2-Paginate)
+3. [Interactive Form](#3-Interactive)
+4. [OOP Hangman](#4-OOP)
+5. [Public API Directory](#5-Public)
+6. [Static Node and Express Site](#6-Static)
+7. [React Flickr Gallery](#7-React)
+8. [SQL Library Manager](#8-SQL)
+9. [Mongo REST API](#9-Mongo)
+10. [React Front End for your REST API](#0-React)
 
--------
-
-## 01. Random Quote Generator
+### Previous Versions
+[04. Tic-Tac-Toe](#04-Tic-Tac-Toe)
+[06. Web Scraping Command Line App](#06-Web)
+[08. Gulp](#08-Gulp)
 
 -------
 
-## 02. Paginate and Filter
+## 1-Random Quote Generator
 
 -------
 
-## 03. Interactive Form
+## 2-Paginate and Filter
 
 -------
 
-## 04. OOP Hangman
+## 3-Interactive Form
 
 -------
 
-## 05. Public API Directory
+## 4-OOP Hangman
 
 -------
 
-## 06. Static Node and Express Site
+## 5-Public API Directory
 
 -------
 
-## 07. React Flickr Gallery
+## 6-Static Node and Express Site
 
 -------
 
-## 08. SQL Library Manager
+## 7-React Flickr Gallery
 
 -------
 
-## 09. Mongo REST API
+## 8-SQL Library Manager
 
 -------
 
-## 10. React Front End for your REST API
+## 9-Mongo REST API
+
+-------
+
+## 10-React Front End for your REST API
 
 -------
 
 ## Previous Versions
 
--------
-
-## 04. Tic-Tac-Toe
+## 04-Tic-Tac-Toe
 
 -------
 
-## 06. Web Scraping Command Line App
+## 06-Web Scraping Command Line App
 
 -------
 
-## 08. Gulp
+## 08-Gulp
 
 -------
 

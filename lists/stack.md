@@ -6,6 +6,8 @@ A list of helpful resources for the stack in Team Treehouse's Full Stack JavaScr
 
 ## Stack Index
 
+[Back to Main Index](../README.md)
+
 [General](#general) ·
 [JavaScript](#javascript) ·
 [HTML](#html) ·
@@ -16,8 +18,7 @@ A list of helpful resources for the stack in Team Treehouse's Full Stack JavaScr
 [Express](#express) ·
 [Pug](#pug) ·
 [MongoDB](#mongodb) ·
-[SQL](#sql) ·
-[Back to Main Index](../README.md)
+[SQL](#sql)
 
 -------
 
