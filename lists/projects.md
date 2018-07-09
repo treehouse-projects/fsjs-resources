@@ -1,3 +1,7 @@
+# ![Treehouse Logo](../repo-imgs/treehouse_and_logo.png "Team Treehouse")
+
+# ![Full Stack JavaScript Techdegree](../repo-imgs/fsjs.png "FSJS") Full Stack JavaScript Techdegree Resources
+
 # Projects
 
 Felling a little stuck on one of your Techdegree projects?  You might find something useful in this list of project specific resources.  And remember, if you have a suggestion, or if there's something you'd like to see in here, be sure to check out the [conributing Guidelines](../CONTRIBUTING.md).
@@ -16,8 +20,8 @@ Felling a little stuck on one of your Techdegree projects?  You might find somet
 10. [React Front End for your REST API](#0-React)
 
 ### Previous Versions
-[04. Tic-Tac-Toe](#04-Tic-Tac-Toe)
-[06. Web Scraping Command Line App](#06-Web)
+[04. Tic-Tac-Toe](#04-Tic-Tac-Toe) ·
+[06. Web Scraping Command Line App](#06-Web) ·
 [08. Gulp](#08-Gulp)
 
 -------

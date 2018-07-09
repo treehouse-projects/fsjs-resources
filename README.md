@@ -64,9 +64,9 @@ Felling a little stuck on one of your Full Stack JavaScript Techdegree projects?
 9. [Mongo REST API](lists/projects/#9-Mongo)
 10. [React Front End for your REST API](lists/projects/#0-React)
 
-## Previous Versions
-[04. Tic-Tac-Toe](lists/projects/#04-Tic-Tac-Toe)
-[06. Web Scraping Command Line App](lists/projects/#06-Web)
+### Previous Versions
+[04. Tic-Tac-Toe](lists/projects/#04-Tic-Tac-Toe) ·
+[06. Web Scraping Command Line App](lists/projects/#06-Web) ·
 [08. Gulp](lists/projects/#08-Gulp)
 
 -------
