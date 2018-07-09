@@ -1,8 +1,8 @@
 # Stack
 
-## ![JavaScript](repo-imgs/js.png "JavaScript") ![HTML](repo-imgs/html.png "HTML") ![CSS](repo-imgs/css.png "CSS") ![React](repo-imgs/react.png "React") ![npm](repo-imgs/npm.png "npm") ![Node](repo-imgs/node.png "Node") ![Express](repo-imgs/express.png "Express") ![Pug](repo-imgs/pug.png "Pug") ![Mongo](repo-imgs/mongo.png "Mongo") ![SQL](repo-imgs/sql.png "SQL")
+## ![JavaScript](../repo-imgs/js.png "JavaScript") ![HTML](../repo-imgs/html.png "HTML") ![CSS](../repo-imgs/css.png "CSS") ![React](../repo-imgs/react.png "React") ![npm](../repo-imgs/npm.png "npm") ![Node](../repo-imgs/node.png "Node") ![Express](../repo-imgs/express.png "Express") ![Pug](../repo-imgs/pug.png "Pug") ![Mongo](../repo-imgs/mongo.png "Mongo") ![SQL](../repo-imgs/sql.png "SQL")
 
-This is a list of helpful resources for the stack covered in Team Treehouse's Full Stack JavaScript Techdegree.
+A list of helpful resources for the stack covered in Team Treehouse's Full Stack JavaScript Techdegree.
 
 ## Stack Index
 
@@ -40,7 +40,7 @@ This is a list of helpful resources for the stack covered in Team Treehouse's Fu
 * **[JS Snippets](https://css-tricks.com/snippets/javascript/)**
 * **[jQuery docs](https://api.jquery.com/)**
 * **[jQuery Snippets](https://css-tricks.com/snippets/jquery/)**
-* **[JS Hint](http://jshint.com/)** - A JavaScript validator
+* **[JS Hint - A JavaScript validator](http://jshint.com/)**
 * **[Time Complexity & Big-O Notation](https://medium.freecodecamp.com/time-is-complex-but-priceless-f0abd015063c#.6a4s0p49a)**
 * **[JavaScript Scope and Closures](https://css-tricks.com/javascript-scope-closures/)**
 * **[JavaScript Promises](https://davidwalsh.name/promises)**
@@ -71,7 +71,7 @@ This is a list of helpful resources for the stack covered in Team Treehouse's Fu
 * **[CSS Concepts](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Concepts)**
 * **[CSS Cheatsheet](../assets/css_cheatsheet.pdf)**
 * **[CSS Snippets](https://css-tricks.com/snippets/css/)**
-* **[Sass - A Poerful CSS Extension Language](https://sass-lang.com/)**
+* **[Sass - A Powerful CSS Extension Language](https://sass-lang.com/)**
 * **[Sass Snippets](https://css-tricks.com/snippets/sass/)**
 * **[CSS Validation](https://jigsaw.w3.org/css-validator/)**
 
@@ -104,7 +104,7 @@ This is a list of helpful resources for the stack covered in Team Treehouse's Fu
 ## Pug
 
 * **[Pug](https://pugjs.org/api/getting-started.html)**
-* **[HTML to Pug converter](https://html2pug.herokuapp.com/)**
+* **[HTML to Pug Converter](https://html2pug.herokuapp.com/)**
 
 -------
 
@@ -121,4 +121,4 @@ This is a list of helpful resources for the stack covered in Team Treehouse's Fu
 
 -------
 
-![Treehouse Logo](repo-imgs/frogprint.png "Team Treehouse")
+![Treehouse Logo](../repo-imgs/frogprint.png "Team Treehouse")

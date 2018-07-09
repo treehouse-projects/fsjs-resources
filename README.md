@@ -8,7 +8,7 @@ This is a community based list of resources for the [Full Stack JavaScript Techd
 
 Want to help and add resources? Awesome! Checkout the [CONTRIBUTING guidelines](CONTRIBUTING.md).
 
-## Index
+## Main Index
 
 [Stack](lists/stack.md) ·
 [Projects](lists/projects.md) ·
