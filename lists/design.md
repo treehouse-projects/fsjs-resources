@@ -6,6 +6,13 @@
 
 Looking to tap into the power of design to spice up your projects?
 
+## Index
+
+[Stack](stack.md) ·
+[Slack](slack.md) ·
+[Success](success.md) ·
+[Projects](projects.md) ·
+[Career Guidance](career.md) ·
 [Back to Main Index](../README.md)
 
 ![Treehouse Logo](../repo-imgs/frogprint.png "Team Treehouse")

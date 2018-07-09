@@ -10,6 +10,13 @@ A list of helpful resources for the stack in Team Treehouse's Full Stack JavaScr
 
 ## Stack Index
 
+## Index
+
+[Slack](slack.md) ·
+[Success](success.md) ·
+[Projects](projects.md) ·
+[Design](design.md) ·
+[Career Guidance](career.md) ·
 [Back to Main Index](../README.md)
 
 [General](#general) ·

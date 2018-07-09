@@ -53,21 +53,21 @@ Motivation, guidance, support and resources to help you succeed in your journey 
 
 Felling a little stuck on one of your Full Stack JavaScript Techdegree projects?  You might find something useful in this list of project specific resources.  And remember, if you have a suggestion, or if there's something you'd like to see in here, be sure to check out the [conributing Guidelines](CONTRIBUTING.md).
 
-1. [Random Quote Generator](lists/projects/#1-Random)
-2. [Paginate and Filter](lists/projects/#2-Paginate)
-3. [Interactive Form](lists/projects/#3-Interactive)
-4. [OOP Hangman](lists/projects/#4-OOP)
-5. [Public API Directory](lists/projects/#5-Public)
-6. [Static Node and Express Site](lists/projects/#6-Static)
-7. [React Flickr Gallery](lists/projects/#7-React)
-8. [SQL Library Manager](lists/projects/#8-SQL)
-9. [Mongo REST API](lists/projects/#9-Mongo)
-10. [React Front End for your REST API](lists/projects/#0-React)
+1. [Random Quote Generator](lists/projects/#1-random-quote-generator)
+2. [Paginate and Filter](lists/projects/#2-paginate-and-filter)
+3. [Interactive Form](lists/projects/#3-interactive-form)
+4. [OOP Hangman](lists/projects/#4-oop-hangman)
+5. [Public API Directory](lists/projects/#5-public-api-directory)
+6. [Static Node and Express Site](lists/projects/#6-static-node-and-express-site)
+7. [React Flickr Gallery](lists/projects/#7-react-flickr-gallery)
+8. [SQL Library Manager](lists/projects/#8-sql-library-manager)
+9. [Mongo REST API](lists/projects/#9-mongo-rest-api)
+10. [React Front End for your REST API](lists/projects/#10-react-front-end-for-your-rest-api)
 
 ### Previous Versions
-[4. Tic-Tac-Toe](lists/projects/#04-Tic-Tac-Toe) ·
-[6. Web Scraping Command Line App](lists/projects/#06-Web) ·
-[8. Gulp](lists/projects/#08-Gulp)
+[4. Tic-Tac-Toe](lists/projects/#04-tic-tac-toe) ·
+[6. Content Scraper](lists/projects/#06-content-scraper) ·
+[8. Gulp](lists/projects/#08-gulp)
 
 -------
 
