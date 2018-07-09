@@ -2,7 +2,7 @@
 
 # ![Full Stack JavaScript Techdegree](../repo-imgs/fsjs.png "FSJS") Full Stack JavaScript Techdegree Resources
 
-# Career
+# Career Guidance
 
 Resources to help with the job search.
 

@@ -15,7 +15,7 @@ Want to help and add resources? Awesome! Checkout the [CONTRIBUTING guidelines](
 [Success](lists/success.md) ·
 [Projects](lists/projects.md) ·
 [Design](lists/design.md) ·
-[Career](lists/career.md)
+[Career Guidance](lists/career.md)
 
 
 -------
@@ -65,9 +65,9 @@ Felling a little stuck on one of your Full Stack JavaScript Techdegree projects?
 10. [React Front End for your REST API](lists/projects/#0-React)
 
 ### Previous Versions
-[04. Tic-Tac-Toe](lists/projects/#04-Tic-Tac-Toe) ·
-[06. Web Scraping Command Line App](lists/projects/#06-Web) ·
-[08. Gulp](lists/projects/#08-Gulp)
+[4. Tic-Tac-Toe](lists/projects/#04-Tic-Tac-Toe) ·
+[6. Web Scraping Command Line App](lists/projects/#06-Web) ·
+[8. Gulp](lists/projects/#08-Gulp)
 
 -------
 
@@ -77,7 +77,7 @@ Looking to tap into the power of design to spice up your projects?
 
 -------
 
-## [Career](lists/career.md)
+## [Career Guidance](lists/career.md)
 
 Resources to help with the job search.
 

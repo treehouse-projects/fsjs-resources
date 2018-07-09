@@ -8,7 +8,7 @@ Felling a little stuck on one of your Techdegree projects?  You might find somet
 
 [Back to Main Index](../README.md)
 
-1. [Random Quote Generator](#1-Random)
+1. [Random Quote Generator](#1-random)
 2. [Paginate and Filter](#2-Paginate)
 3. [Interactive Form](#3-Interactive)
 4. [OOP Hangman](#4-OOP)
@@ -20,9 +20,9 @@ Felling a little stuck on one of your Techdegree projects?  You might find somet
 10. [React Front End for your REST API](#0-React)
 
 ### Previous Versions
-[04. Tic-Tac-Toe](#04-Tic-Tac-Toe) ·
-[06. Web Scraping Command Line App](#06-Web) ·
-[08. Gulp](#08-Gulp)
+[4. Tic-Tac-Toe](#04-tic-tac-toe) ·
+[6. Web Scraping Command Line App](#06-web) ·
+[8. Gulp](#08-gulp)
 
 -------
 
@@ -66,18 +66,12 @@ Felling a little stuck on one of your Techdegree projects?  You might find somet
 
 -------
 
-## Previous Versions
+### Previous Versions
 
-## 04-Tic-Tac-Toe
+### 04-Tic-Tac-Toe
 
--------
+### 06-Web Scraping Command Line App
 
-## 06-Web Scraping Command Line App
-
--------
-
-## 08-Gulp
-
--------
+### 08-Gulp
 
 ![Treehouse Logo](../repo-imgs/frogprint.png "Team Treehouse")
