@@ -1,7 +1,3 @@
-# ![Treehouse Logo](../repo-imgs/treehouse_and_logo.png "Team Treehouse")
-
-# ![Full Stack JavaScript Techdegree](../repo-imgs/fsjs.png "FSJS") Full Stack JavaScript Techdegree Resources
-
 # Career
 
 Resources to help with the job search.

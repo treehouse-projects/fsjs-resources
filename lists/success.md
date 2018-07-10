@@ -1,7 +1,3 @@
-# ![Treehouse Logo](../repo-imgs/treehouse_and_logo.png "Team Treehouse")
-
-# ![Full Stack JavaScript Techdegree](../repo-imgs/fsjs.png "FSJS") Full Stack JavaScript Techdegree Resources
-
 # Success
 
 Motivation, guidance, support and resources to help you succeed in your journey to become a developer.
@@ -18,13 +14,13 @@ Motivation, guidance, support and resources to help you succeed in your journey 
 
 ## Page Index
 
-* **[Success Tips](#success-tips)**
-* **[Impostor Syndrome](#impostor-syndrome)**
-* **[The Importance of Positivity and a Good Attitude](#html)**
-* **[The Importance of Talking About and Sharing the Things You are Learning](#css)**
-* **[Tips for becoming a better developer](#react)**
-* **[Miscellaneous Tips and Advice](#npm)**
-* **[Logic, Thinking, and Theory](#node.js)**
+[Success Tips](#success-tips) ·
+[Impostor Syndrome](#impostor-syndrome) ·
+[Attitude](#attitude) ·
+[Teach What You Learn](#teach-what-you-learn) ·
+[Developer Tips](#developer-tips) ·
+[Miscellaneous Tips](#miscellaneous-tips) ·
+[Logic, Thinking, and Theory](#logic,-thinking,-and-theory)
 
 -------
 
@@ -46,7 +42,7 @@ Motivation, guidance, support and resources to help you succeed in your journey 
 
 --------
 
-## The Importance of Positivity and a Good Attitude
+## Attitude
 
 * **[How positive thinking helps](https://jamesclear.com/positive-thinking)**
 * **[Why attitude is the most important thing in Success](https://thoughtcatalog.com/jeanne-san-pascual/2015/02/why-attitude-is-the-most-important-thing-in-success/)**
@@ -55,7 +51,7 @@ Motivation, guidance, support and resources to help you succeed in your journey 
 
 --------
 
-## The Importance of Talking About and Sharing the Things You are Learning
+## Teach What You Learn
 
 * **[You should be teaching what you know](https://crew.co/blog/teaching-what-you-know/)**
 * **[Why you should teach what you know](https://lifehacker.com/teach-others-what-you-know-to-make-connections-and-lear-1639560273)**
@@ -63,7 +59,7 @@ Motivation, guidance, support and resources to help you succeed in your journey 
 
 --------
 
-## Tips for becoming a better developer
+## Developer Tips
 
 * **[10 tips for becomming a better programmer](https://www.techrepublic.com/article/10-tips-for-becoming-a-better-programmer/)**
 * **[8 ways to become a better coder](https://blog.newrelic.com/2016/02/22/8-ways-become-a-better-coder/)**
@@ -76,7 +72,7 @@ Motivation, guidance, support and resources to help you succeed in your journey 
 
 --------
 
-## Miscellaneous Tips and Advice
+## Miscellaneous Tips
 
 * **[How to ensure your future is brighter than your past](https://journal.thriveglobal.com/how-to-ensure-your-future-is-bigger-than-your-past-386d876d3f20)**
 * **[Why 'sleep on it' is the most useful advice for learning](https://medium.com/q-e-d/why-sleep-on-it-is-the-most-useful-advice-for-learning-and-also-the-most-neglected-86b20249f06d)**

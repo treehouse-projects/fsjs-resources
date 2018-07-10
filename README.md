@@ -13,8 +13,8 @@ Want to help and add resources? Awesome! Checkout the [CONTRIBUTING guidelines](
 [Stack](lists/stack.md) ·
 [Slack](lists/slack.md) ·
 [Success](lists/success.md) ·
-[Projects](lists/projects.md) ·
-[Career](lists/career.md)
+[Career](lists/career.md) ·
+[Projects](lists/projects.md)
 
 -------
 
@@ -47,6 +47,12 @@ Motivation, guidance, support and resources to help you succeed in your journey 
 
 -------
 
+## [Career](lists/career.md)
+
+Resources to help with the job search.
+
+-------
+
 ## [Projects](lists/projects.md)
 
 Felling a little stuck on one of your Full Stack JavaScript Techdegree projects?  You might find something useful in this list of project specific resources.  And remember, if you have a suggestion, or if there's something you'd like to see in here, be sure to check out the [conributing Guidelines](CONTRIBUTING.md).
@@ -62,16 +68,10 @@ Felling a little stuck on one of your Full Stack JavaScript Techdegree projects?
 9. **[Mongo REST API](lists/projects/#9-mongo-rest-api)**
 10. **[React Front End for your REST API](lists/projects/#10-react-front-end-for-your-rest-api)**
 
-### Previous Versions
+#### Previous Versions
 [04. Tic-Tac-Toe](lists/projects/#04-tic-tac-toe) ·
 [06. Content Scraper](lists/projects/#06-content-scraper) ·
 [08. Gulp](lists/projects/#08-gulp)
-
--------
-
-## [Career](lists/career.md)
-
-Resources to help with the job search.
 
 -------
 
