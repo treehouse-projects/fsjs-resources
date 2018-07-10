@@ -1,6 +1,10 @@
+![Treehouse Logo](../repo-imgs/frogprint.png "Team Treehouse")
+
+# ![Full Stack JavaScript Techdegree](repo-imgs/fsjs.png "FSJS") Full Stack JavaScript Techdegree
+
 # Projects
 
-Felling a little stuck on one of your Techdegree projects?  You might find something useful in this list of project specific resources.  And remember, if you have a suggestion, or if there's something you'd like to see in here, be sure to check out the [conributing Guidelines](../CONTRIBUTING.md).
+>Feeling a little stuck on one of your Techdegree projects?  You might find something useful in this list of project specific resources.  And remember, if you have a suggestion, or if there's something you'd like to see in here, be sure to check out the [conributing Guidelines](../CONTRIBUTING.md).
 
 ## Main Index
 
@@ -34,9 +38,13 @@ Felling a little stuck on one of your Techdegree projects?  You might find somet
 
 ## 1 Random Quote Generator
 
+* **[Study Guide](https://drive.google.com/file/d/1nbC_QYE70LsdPXqotrK0zT24Py2BJKL6/view)**
+
 -------
 
 ## 2 Paginate and Filter
+
+* **[Study Guide](https://drive.google.com/file/d/1KxNN7M68693gVGGQ5fgeOcd3JQLJXFld/view?usp=sharing)**
 
 -------
 

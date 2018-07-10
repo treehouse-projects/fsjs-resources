@@ -1,8 +1,12 @@
-# Stack
+![Treehouse Logo](../repo-imgs/frogprint.png "Team Treehouse")
+
+# ![Full Stack JavaScript Techdegree](repo-imgs/fsjs.png "FSJS") Full Stack JavaScript Techdegree
 
 ## ![JavaScript](../repo-imgs/js.png "JavaScript") ![HTML](../repo-imgs/html.png "HTML") ![CSS](../repo-imgs/css.png "CSS") ![React](../repo-imgs/react.png "React") ![npm](../repo-imgs/npm.png "npm") ![Node](../repo-imgs/node.png "Node") ![Express](../repo-imgs/express.png "Express") ![Pug](../repo-imgs/pug.png "Pug") ![Mongo](../repo-imgs/mongo.png "Mongo") ![SQL](../repo-imgs/sql.png "SQL")
 
-A list of helpful resources for the stack in Team Treehouse's Full Stack JavaScript Techdegree.  Links to support docs, helpful articles, snippets, cheatsheets, code practice, etc.
+# Stack
+
+>A list of helpful resources for the stack in Team Treehouse's Full Stack JavaScript Techdegree.  Links to support docs, helpful articles, snippets, cheatsheets, code practice, etc.
 
 ## Main Index
 
