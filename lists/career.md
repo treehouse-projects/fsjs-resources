@@ -2,7 +2,7 @@
 
 # ![Full Stack JavaScript Techdegree](../repo-imgs/fsjs.png "FSJS") Full Stack JavaScript Techdegree Resources
 
-# Career Guidance
+# Career
 
 Resources to help with the job search.
 
@@ -12,8 +12,7 @@ Resources to help with the job search.
 [Slack](slack.md) ·
 [Success](success.md) ·
 [Projects](projects.md) ·
-[Design](design.md) ·
-[Back to Main Index](../README.md)
+[Home](../README.md)
 
 -------
 

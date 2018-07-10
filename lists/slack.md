@@ -11,9 +11,8 @@ Slack info, tips and tricks.
 [Stack](stack.md) ·
 [Success](success.md) ·
 [Projects](projects.md) ·
-[Design](design.md) ·
-[Career Guidance](career.md) ·
-[Back to Main Index](../README.md)
+[Career](career.md) ·
+[Home](../README.md)
 
 -------
 

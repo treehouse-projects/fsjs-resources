@@ -14,9 +14,7 @@ Want to help and add resources? Awesome! Checkout the [CONTRIBUTING guidelines](
 [Slack](lists/slack.md) ·
 [Success](lists/success.md) ·
 [Projects](lists/projects.md) ·
-[Design](lists/design.md) ·
-[Career Guidance](lists/career.md)
-
+[Career](lists/career.md)
 
 -------
 
@@ -53,16 +51,16 @@ Motivation, guidance, support and resources to help you succeed in your journey 
 
 Felling a little stuck on one of your Full Stack JavaScript Techdegree projects?  You might find something useful in this list of project specific resources.  And remember, if you have a suggestion, or if there's something you'd like to see in here, be sure to check out the [conributing Guidelines](CONTRIBUTING.md).
 
-1. [Random Quote Generator](lists/projects/#1-random-quote-generator)
-2. [Paginate and Filter](lists/projects/#2-paginate-and-filter)
-3. [Interactive Form](lists/projects/#3-interactive-form)
-4. [OOP Hangman](lists/projects/#4-oop-hangman)
-5. [Public API Directory](lists/projects/#5-public-api-directory)
-6. [Static Node and Express Site](lists/projects/#6-static-node-and-express-site)
-7. [React Flickr Gallery](lists/projects/#7-react-flickr-gallery)
-8. [SQL Library Manager](lists/projects/#8-sql-library-manager)
-9. [Mongo REST API](lists/projects/#9-mongo-rest-api)
-10. [React Front End for your REST API](lists/projects/#10-react-front-end-for-your-rest-api)
+1. **[Random Quote Generator](lists/projects/#1-random-quote-generator)**
+2. **[Paginate and Filter](lists/projects/#2-paginate-and-filter)**
+3. **[Interactive Form](lists/projects/#3-interactive-form)**
+4. **[OOP Hangman](lists/projects/#4-oop-hangman)**
+5. **[Public API Directory](lists/projects/#5-public-api-directory)**
+6. **[Static Node and Express Site](lists/projects/#6-static-node-and-express-site)**
+7. **[React Flickr Gallery](lists/projects/#7-react-flickr-gallery)**
+8. **[SQL Library Manager](lists/projects/#8-sql-library-manager)**
+9. **[Mongo REST API](lists/projects/#9-mongo-rest-api)**
+10. **[React Front End for your REST API](lists/projects/#10-react-front-end-for-your-rest-api)**
 
 ### Previous Versions
 [04. Tic-Tac-Toe](lists/projects/#04-tic-tac-toe) ·
@@ -71,13 +69,7 @@ Felling a little stuck on one of your Full Stack JavaScript Techdegree projects?
 
 -------
 
-## [Design](lists/design.md)
-
-Looking to tap into the power of design to spice up your projects?
-
--------
-
-## [Career Guidance](lists/career.md)
+## [Career](lists/career.md)
 
 Resources to help with the job search.
 

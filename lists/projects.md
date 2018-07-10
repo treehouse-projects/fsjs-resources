@@ -11,8 +11,7 @@ Felling a little stuck on one of your Techdegree projects?  You might find somet
 [Stack](stack.md) ·
 [Slack](slack.md) ·
 [Success](success.md) ·
-[Design](design.md) ·
-[Career Guidance](career.md) ·
+[Career](career.md) ·
 [Home](../README.md)
 
 -------
@@ -92,8 +91,7 @@ Felling a little stuck on one of your Techdegree projects?  You might find somet
 [Stack](stack.md) ·
 [Slack](slack.md) ·
 [Success](success.md) ·
-[Design](design.md) ·
-[Career Guidance](career.md) ·
+[Career](career.md) ·
 [Home](../README.md)
 
 -------
