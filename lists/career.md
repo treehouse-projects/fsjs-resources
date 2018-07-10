@@ -1,12 +1,12 @@
 ![Treehouse Logo](../repo-imgs/frogprint.png "Team Treehouse")
 
-# ![Full Stack JavaScript Techdegree](repo-imgs/fsjs.png "FSJS") Full Stack JavaScript Techdegree
+# ![Full Stack JavaScript Techdegree](../repo-imgs/fsjs.png "FSJS") Full Stack JavaScript Techdegree
 
 # Career
 
 >Resources to help with your Web Developer job search.
 
-## Main Index
+### Main Index
 
 [Stack](stack.md) ·
 [Slack](slack.md) ·

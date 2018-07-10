@@ -56,7 +56,7 @@
 
 ## [Projects](lists/projects.md)
 
->Feeling a little stuck on one of your Full Stack JavaScript Techdegree projects?  You might find something useful in this list of project specific resources.  And remember, if you have a suggestion, or if there's something you'd like to see in here, be sure to check out the [conributing Guidelines](CONTRIBUTING.md).
+>Feeling a little stuck on one of your Full Stack JavaScript Techdegree projects?  You might find something useful in this list of project specific resources.  And remember, if you have a suggestion, or if there's something you'd like to see in here, be sure to check out the [contributing Guidelines](CONTRIBUTING.md).
 
 1. **[Random Quote Generator](lists/projects/#1-random-quote-generator)**
 2. **[Paginate and Filter](lists/projects/#2-paginate-and-filter)**

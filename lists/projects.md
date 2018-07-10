@@ -1,12 +1,12 @@
 ![Treehouse Logo](../repo-imgs/frogprint.png "Team Treehouse")
 
-# ![Full Stack JavaScript Techdegree](repo-imgs/fsjs.png "FSJS") Full Stack JavaScript Techdegree
+# ![Full Stack JavaScript Techdegree](../repo-imgs/fsjs.png "FSJS") Full Stack JavaScript Techdegree
 
 # Projects
 
->Feeling a little stuck on one of your Techdegree projects?  You might find something useful in this list of project specific resources.  And remember, if you have a suggestion, or if there's something you'd like to see in here, be sure to check out the [conributing Guidelines](../CONTRIBUTING.md).
+>Feeling a little stuck on one of your Techdegree projects?  You might find something useful in this list of project specific resources.  And remember, if you have a suggestion, or if there's something you'd like to see in here, be sure to check out the [contributing Guidelines](../CONTRIBUTING.md).
 
-## Main Index
+### Main Index
 
 [Stack](stack.md) ·
 [Slack](slack.md) ·
@@ -16,7 +16,7 @@
 
 -------
 
-## Page Index
+### Page Index
 
 1. **[Random Quote Generator](#1-random-quote-generator)**
 2. **[Paginate and Filter](#2-paginate-and-filter)**
@@ -80,7 +80,7 @@
 
 -------
 
-## Previous Versions
+### Previous Versions
 
 ### 04 Tic-Tac-Toe
 
@@ -90,7 +90,7 @@
 
 -------
 
-## Main Index
+### Main Index
 
 [Stack](stack.md) ·
 [Slack](slack.md) ·

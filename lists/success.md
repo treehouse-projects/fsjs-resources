@@ -1,12 +1,12 @@
 ![Treehouse Logo](../repo-imgs/frogprint.png "Team Treehouse")
 
-# ![Full Stack JavaScript Techdegree](repo-imgs/fsjs.png "FSJS") Full Stack JavaScript Techdegree
+# ![Full Stack JavaScript Techdegree](../repo-imgs/fsjs.png "FSJS") Full Stack JavaScript Techdegree
 
 # Success
 
 >Motivation, guidance, support and resources to help you succeed in your journey to become a developer.
 
-## Main Index
+### Main Index
 
 [Stack](stack.md) ·
 [Slack](slack.md) ·
@@ -16,7 +16,7 @@
 
 --------
 
-## Page Index
+### Page Index
 
 [Success Tips](#success-tips) ·
 [Impostor Syndrome](#impostor-syndrome) ·
@@ -26,7 +26,7 @@
 [Miscellaneous Tips](#miscellaneous-tips) ·
 [Logic, Thinking, and Theory](#logic,-thinking,-and-theory)
 
--------
+--------
 
 ## Success Tips
 
