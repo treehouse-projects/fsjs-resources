@@ -31,7 +31,8 @@
 [Express](lists/stack.md/#express) ·
 [Pug](lists/stack.md/#pug) ·
 [MongoDB](lists/stack.md/#mongodb) ·
-[SQL](lists/stack.md/#sql)
+[SQL](lists/stack.md/#sql) ·
+[Design](lists/stack.md/#design)
 
 -------
 
