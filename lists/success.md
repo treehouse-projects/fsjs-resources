@@ -6,7 +6,7 @@
 
 Motivation, guidance, support and resources to help you succeed in your journey to become a developer.
 
-## Index
+## Main Index
 
 [Stack](stack.md) ·
 [Slack](slack.md) ·

@@ -6,7 +6,7 @@
 
 Slack info, tips and tricks.
 
-## Index
+## Main Index
 
 [Stack](stack.md) ·
 [Success](success.md) ·

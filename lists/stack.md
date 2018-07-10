@@ -10,16 +10,18 @@ A list of helpful resources for the stack in Team Treehouse's Full Stack JavaScr
 
 ## Stack Index
 
-## Index
+## Main Index
 
 [Slack](slack.md) ·
 [Success](success.md) ·
 [Projects](projects.md) ·
 [Design](design.md) ·
 [Career Guidance](career.md) ·
-[Back to Main Index](../README.md)
+[Home](../README.md)
 
 -------
+
+## Page Index
 
 [JavaScript](#javascript) ·
 [HTML](#html) ·
@@ -154,6 +156,17 @@ A list of helpful resources for the stack in Team Treehouse's Full Stack JavaScr
 
 * **[MySQL](https://dev.mysql.com/doc/)**
 * **[Sequalize](http://docs.sequelizejs.com/)**
+
+-------
+
+## Main Index
+
+[Slack](slack.md) ·
+[Success](success.md) ·
+[Projects](projects.md) ·
+[Design](design.md) ·
+[Career Guidance](career.md) ·
+[Home](../README.md)
 
 -------
 

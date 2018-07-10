@@ -6,7 +6,7 @@
 
 Resources to help with the job search.
 
-## Index
+## Main Index
 
 [Stack](stack.md) ·
 [Slack](slack.md) ·

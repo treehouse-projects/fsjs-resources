@@ -6,7 +6,7 @@
 
 Looking to tap into the power of design to spice up your projects?
 
-## Index
+## Main Index
 
 [Stack](stack.md) ·
 [Slack](slack.md) ·
