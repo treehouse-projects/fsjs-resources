@@ -4,7 +4,7 @@
 
 # Career
 
->Resources to help with your Web Developer job search.
+>Resources to help with your Developer job search.
 
 ### Main Index
 

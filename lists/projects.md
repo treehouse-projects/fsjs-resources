@@ -19,15 +19,15 @@
 ### Page Index
 
 1. **[Random Quote Generator](#1-random-quote-generator)**
-2. **[Paginate and Filter](#2-paginate-and-filter)**
+2. **[List Pagination and Filtering](#2-list-pagination-and-filtering)**
 3. **[Interactive Form](#3-interactive-form)**
-4. **[OOP Hangman](#4-oop-hangman)**
-5. **[Public API Directory](#5-public-api-directory)**
+4. **[OOP Game Show App](#4-oop-game-show-app)**
+5. **[Public API Requests](#5-public-api-requests)**
 6. **[Static Node and Express Site](#6-static-node-and-express-site)**
 7. **[React Flickr Gallery](#7-react-flickr-gallery)**
 8. **[SQL Library Manager](#8-sql-library-manager)**
 9. **[Mongo REST API](#9-mongo-rest-api)**
-10. **[React Front End for your REST API](#10-react-front-end-for-your-rest-api)**
+10. **[Full Stack App with React and a REST API](#10-full-stack-app-with-react-and-a-rest-api)**
 
 ### Previous Versions
 [04. Tic-Tac-Toe](#04-tic-tac-toe) ·
@@ -42,7 +42,7 @@
 
 -------
 
-## 2 Paginate and Filter
+## 2 List Pagination and Filtering
 
 * **[Study Guide](https://drive.google.com/file/d/1KxNN7M68693gVGGQ5fgeOcd3JQLJXFld/view?usp=sharing)**
 
@@ -52,11 +52,11 @@
 
 -------
 
-## 4 OOP Hangman
+## 4 OOP Game Show App
 
 -------
 
-## 5 Public API Directory
+## 5 Public API Requests
 
 -------
 
@@ -76,7 +76,7 @@
 
 -------
 
-## 10 React Front End for your REST API
+## 10 Full Stack App with React and a REST API
 
 -------
 
