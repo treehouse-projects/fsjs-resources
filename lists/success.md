@@ -82,13 +82,14 @@
 * **[Why 'sleep on it' is the most useful advice for learning](https://medium.com/q-e-d/why-sleep-on-it-is-the-most-useful-advice-for-learning-and-also-the-most-neglected-86b20249f06d)**
 * **[The daily routine that will make you a happier person](https://medium.com/the-mission/the-daily-routine-backed-by-science-that-will-make-you-a-happier-person-3f21810da130)**
 * **[5 things you should do every Sunday to prepare for the week ahead](https://medium.com/personal-growth/5-simple-things-you-should-do-every-sunday-night-to-prepare-for-the-week-ahead-6903481af35)**
+* **[https://markmanson.net/question](https://markmanson.net/question)**
 * **[Keystone habits: how one small change can improve your life](https://medium.com/personal-growth/keystone-habits-how-one-small-change-can-improve-your-entire-life-9be798202db5)**
 * **[One hour per day doing this mental excercies will increase your success](https://medium.com/personal-growth/1-hour-per-day-doing-this-mental-exercise-will-exponentially-increase-your-success-adf6027edb9c)**
 * **[Three ways deep thinking and goal planning will change your life](https://medium.com/the-mission/the-3-ways-deep-thinking-and-goal-planning-will-change-your-life-e9de40485997)**
 * **[How to become an expert in anything](https://medium.com/the-mission/how-to-become-an-expert-in-anything-6b0a5e6ab27f)**
 * **[How to reboot your creative brain and refresh your focus](https://medium.com/swlh/how-to-supercharge-your-brain-throughout-your-career-c61862dcd725)**
 * **[How to reduce brain fog and impove clear thinking](https://medium.com/personal-growth/want-to-reduce-brain-fog-and-improve-clear-thinking-give-up-these-things-immediately-1bfee44f4dd7)**
-* **[The crucila thinkging skill nobody ever taugth you](https://medium.com/the-mission/the-crucial-thinking-skill-nobody-ever-taught-you-536191d101ab)**
+* **[The crucial thinkging skill nobody ever taugth you](https://medium.com/the-mission/the-crucial-thinking-skill-nobody-ever-taught-you-536191d101ab)**
 * **[Enjoying the pain of learning will make you smarter](https://medium.com/@GusRazzetti/what-doesnt-kill-you-makes-you-smarter-right-f6ba666b5995)**
 * **[How to increase the volume of your brain and make optimal decisions](https://medium.com/thrive-global/how-to-take-ownership-and-change-your-brain-identity-and-future-252ffab07523)**
 * **[How to beat perfectionism, make progress and find happiness](https://medium.com/personal-growth/how-to-beat-perfectionism-make-progress-and-find-happiness-f7961953ab9)**
@@ -101,7 +102,7 @@
 * **[Thinking in levels, how to dig deeper and think better](https://medium.com/personal-growth/thinking-in-levels-how-to-dig-deeper-and-think-better-8909afbe4fed)**
 * **[Happiness is a compass](https://medium.com/swlh/happiness-is-a-compass-not-a-destination-903f92cf586e)**
 * **[The most important skill of your life](https://medium.com/personal-growth/the-most-important-skill-in-your-life-7154f7b92012)**
-* **[The underutilized pwer of questions](https://medium.com/personal-growth/the-underutilized-power-of-questions-how-einstein-and-da-vinci-found-genius-d7ef7d99f7bd)**
+* **[The underutilized power of questions](https://medium.com/personal-growth/the-underutilized-power-of-questions-how-einstein-and-da-vinci-found-genius-d7ef7d99f7bd)**
 * **[How mindfullness actually works](https://medium.com/personal-growth/how-mindfulness-actually-works-and-why-it-can-change-your-life-b76d889a490)**
 * **[Do you have these six mindful skills, or are you distracted](https://medium.com/thrive-global/6-keystone-skills-for-deciding-what-you-want-learning-effectively-and-mastering-life-ca97d4f7cfd0)**
 * **[How you do anything is how you do everything](https://medium.com/thrive-global/how-you-do-anything-is-how-you-do-everything-bc6e264e40ee)**

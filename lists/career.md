@@ -16,7 +16,8 @@
 
 -------
 
-* **[How to Get Your First Job in Tech](https://medium.com/team-treehouse/how-to-get-your-first-job-in-tech-7478a51fc78)**
+* **[How to Get Your First Job in Tech - Ryan Carson Article](https://medium.com/team-treehouse/how-to-get-your-first-job-in-tech-7478a51fc78)**
+* **[How to Get Your First Job in Tech - Youtube Video with Ryan Carson and Craig Dennis](https://www.youtube.com/watch?v=hv8yquBKrFY)**
 * **[Techdegree Job Search Steps](https://teamtreehouse.com/library/job-search-help)**
 * **[Business Section of the Treehouse Library](https://teamtreehouse.com/library/topic:business)**
 * **[10 Interview Questions Every JS Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)**
