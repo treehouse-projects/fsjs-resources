@@ -26,7 +26,7 @@
 6. **[Static Node and Express Site](#6-static-node-and-express-site)**
 7. **[React Flickr Gallery](#7-react-flickr-gallery)**
 8. **[SQL Library Manager](#8-sql-library-manager)**
-9. **[Mongo REST API](#9-mongo-rest-api)**
+9. **[REST API](#9-rest-api)**
 10. **[Full Stack App with React and a REST API](#10-full-stack-app-with-react-and-a-rest-api)**
 
 ### Previous Versions
@@ -72,7 +72,7 @@
 
 -------
 
-## 9 Mongo REST API
+## 9 REST API
 
 -------
 

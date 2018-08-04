@@ -66,7 +66,7 @@
 6. **[Static Node and Express Site](lists/projects/#6-static-node-and-express-site)**
 7. **[React Flickr Gallery](lists/projects/#7-react-flickr-gallery)**
 8. **[SQL Library Manager](lists/projects/#8-sql-library-manager)**
-9. **[Mongo REST API](lists/projects/#9-mongo-rest-api)**
+9. **[REST API](lists/projects/#9-rest-api)**
 10. **[Full Stack App with React and a REST API](lists/projects/#10-full-stack-app-with-react-and-a-rest-api)**
 
 #### Previous Versions
