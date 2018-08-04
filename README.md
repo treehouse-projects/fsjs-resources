@@ -58,15 +58,15 @@
 
 >Feeling a little stuck on one of your Full Stack JavaScript Techdegree projects?  You might find something useful in this list of project specific resources.  And remember, if you have a suggestion, or if there's something you'd like to see in here, be sure to check out the [contributing Guidelines](CONTRIBUTING.md).
 
-1. **[Random Quote Generator](lists/projects/#1-random-quote-generator)**
-2. **[List Pagination and Filtering](lists/projects/#2-list-pagination-and-filtering)**
-3. **[Interactive Form](lists/projects/#3-interactive-form)**
-4. **[OOP Game Show App](lists/projects/#4-oop-game-show-app)**
-5. **[Public API Requests](lists/projects/#5-public-api-requests)**
-6. **[Static Node and Express Site](lists/projects/#6-static-node-and-express-site)**
-7. **[React Flickr Gallery](lists/projects/#7-react-flickr-gallery)**
-8. **[SQL Library Manager](lists/projects/#8-sql-library-manager)**
-9. **[REST API](lists/projects/#9-rest-api)**
+1. **[Random Quote Generator](lists/projects.md/#1-random-quote-generator)**
+2. **[List Pagination and Filtering](lists/projects.md/#2-list-pagination-and-filtering)**
+3. **[Interactive Form](lists/projects.md/#3-interactive-form)**
+4. **[OOP Game Show App](lists/projects.md/#4-oop-game-show-app)**
+5. **[Public API Requests](lists/projects.md/#5-public-api-requests)**
+6. **[Static Node and Express Site](lists/projects.md/#6-static-node-and-express-site)**
+7. **[React Flickr Gallery](lists/projects.md/#7-react-flickr-gallery)**
+8. **[SQL Library Manager](lists/projects.md/#8-sql-library-manager)**
+9. **[REST API](lists/projects.md/#9-rest-api)**
 10. **[Full Stack App with React and a REST API](lists/projects/#10-full-stack-app-with-react-and-a-rest-api)**
 
 #### Previous Versions
