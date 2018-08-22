@@ -23,28 +23,23 @@
 3. **[Interactive Form](#3-interactive-form)**
 4. **[OOP Game Show App](#4-oop-game-show-app)**
 5. **[Public API Requests](#5-public-api-requests)**
-6. **[Static Node and Express Site](#6-static-node-and-express-site)**
+6. **[Static Node.js and Express Site](#6-static-node.js-and-express-site)**
 7. **[React Flickr Gallery](#7-react-flickr-gallery)**
 8. **[SQL Library Manager](#8-sql-library-manager)**
 9. **[REST API](#9-rest-api)**
 10. **[Full Stack App with React and a REST API](#10-full-stack-app-with-react-and-a-rest-api)**
 
-### Previous Versions
-[04. Tic-Tac-Toe](#04-tic-tac-toe) ·
-[06. Content Scraper](#06-content-scraper) ·
-[08. Gulp](#08-gulp)
-
 -------
 
 ## 1 Random Quote Generator
 
-* **[Study Guide](https://drive.google.com/file/d/1nbC_QYE70LsdPXqotrK0zT24Py2BJKL6/view)**
+* **[Study Guide](https://drive.google.com/file/d/1s5grutGuQFwJcQP8bFwEI69Q8FCkGdDk/view?usp=sharing)**
 
 -------
 
 ## 2 List Pagination and Filtering
 
-* **[Study Guide](https://drive.google.com/file/d/1KxNN7M68693gVGGQ5fgeOcd3JQLJXFld/view?usp=sharing)**
+* **[Study Guide](https://drive.google.com/file/d/1OD1diUsTMdpfMDv677TfL1xO2CEkykSz/view?usp=sharing)**
 
 -------
 
@@ -60,7 +55,7 @@
 
 -------
 
-## 6-Static Node and Express Site
+## 6-Static Node.js and Express Site
 
 -------
 
@@ -77,16 +72,6 @@
 -------
 
 ## 10 Full Stack App with React and a REST API
-
--------
-
-### Previous Versions
-
-### 04 Tic-Tac-Toe
-
-### 06 Content Scraper
-
-### 08 Gulp
 
 -------
 

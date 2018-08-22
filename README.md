@@ -63,7 +63,7 @@
 3. **[Interactive Form](lists/projects.md/#3-interactive-form)**
 4. **[OOP Game Show App](lists/projects.md/#4-oop-game-show-app)**
 5. **[Public API Requests](lists/projects.md/#5-public-api-requests)**
-6. **[Static Node and Express Site](lists/projects.md/#6-static-node-and-express-site)**
+6. **[Static Node.js and Express Site](lists/projects.md/#6-static-node.js-and-express-site)**
 7. **[React Flickr Gallery](lists/projects.md/#7-react-flickr-gallery)**
 8. **[SQL Library Manager](lists/projects.md/#8-sql-library-manager)**
 9. **[REST API](lists/projects.md/#9-rest-api)**
