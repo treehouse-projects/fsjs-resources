@@ -2,7 +2,7 @@
 
 # ![Full Stack JavaScript Techdegree](repo-imgs/fsjs.png "FSJS") Full Stack JavaScript Techdegree Resources
 
-## ![JavaScript](repo-imgs/js.png "JavaScript") ![HTML](repo-imgs/html.png "HTML") ![CSS](repo-imgs/css.png "CSS") ![React](repo-imgs/react.png "React") ![npm](repo-imgs/npm.png "npm") ![Node](repo-imgs/node.png "Node") ![Express](repo-imgs/express.png "Express") ![Pug](repo-imgs/pug.png "Pug") ![Mongo](repo-imgs/mongo.png "Mongo") ![SQL](repo-imgs/sql.png "SQL")
+## ![JavaScript](repo-imgs/js.png "JavaScript") ![HTML](repo-imgs/html.png "HTML") ![CSS](repo-imgs/css.png "CSS") ![React](repo-imgs/react.png "React") ![npm](repo-imgs/npm.png "npm") ![Node](repo-imgs/node.png "Node") ![Express](repo-imgs/express.png "Express") ![Pug](repo-imgs/pug.png "Pug") ![SQL](repo-imgs/sql.png "SQL")
 
 >This is a community based list of resources for the [Full Stack JavaScript Techdegree](https://www.teamtreehouse.com).
 
@@ -30,7 +30,6 @@
 [Node.js](lists/stack.md/#node.js) ·
 [Express](lists/stack.md/#express) ·
 [Pug](lists/stack.md/#pug) ·
-[MongoDB](lists/stack.md/#mongodb) ·
 [SQL](lists/stack.md/#sql) ·
 [Design](lists/stack.md/#design)
 
@@ -68,11 +67,6 @@
 8. **[SQL Library Manager](lists/projects.md/#8-sql-library-manager)**
 9. **[REST API](lists/projects.md/#9-rest-api)**
 10. **[Full Stack App with React and a REST API](lists/projects/#10-full-stack-app-with-react-and-a-rest-api)**
-
-#### Previous Versions
-[04. Tic-Tac-Toe](lists/projects/#04-tic-tac-toe) ·
-[06. Content Scraper](lists/projects/#06-content-scraper) ·
-[08. Gulp](lists/projects/#08-gulp)
 
 -------
 
