@@ -22,7 +22,7 @@
 
 -------
 
-### [Stack](lists/stack.md)
+## [Stack](lists/stack.md)
 
 >A list of helpful resources for the stack in Team Treehouse's Full Stack JavaScript Techdegree.  Links to support docs, helpful articles, snippets, cheatsheets, code practice, etc.
 
