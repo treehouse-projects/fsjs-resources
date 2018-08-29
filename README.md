@@ -35,6 +35,10 @@
 
 -------
 
+## [Techdegree FAQs](https://teamtreehouse.com/library/techdegree-faqs)
+
+-------
+
 ## [Slack](lists/slack.md)
 
 >Slack info, tips and tricks.

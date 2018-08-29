@@ -2,7 +2,7 @@
 
 # ![Full Stack JavaScript Techdegree](../repo-imgs/fsjs.png "FSJS") Full Stack JavaScript Techdegree
 
-# Slack
+# ![Slack Logo](../repo-imgs/slack.png "Slack") Slack
 
 >Slack info, tips and tricks.
 
@@ -24,7 +24,7 @@
 
 ## Treehouse Links to Useful Slack Info
 
-* **[Treehouse Intro to Slack link](https://teamtreehouse.com/library/introducing-slack-for-the-full-stack-javascript-techdegree-2)**
+* **[Slack for the Techdegree - Development Tools course](https://teamtreehouse.com/library/slack-for-the-techdegree)**
 * **[Techdegree Slack Champions](https://teamtreehouse.com/library/techdegree-slack-champions)**
 * **[Code of Conduct](https://teamtreehouse.com/conduct)**
 
