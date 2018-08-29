@@ -18,7 +18,11 @@
 
 -------
 
-## [Stack](lists/stack.md)
+## [Techdegree FAQs](https://teamtreehouse.com/library/techdegree-faqs)
+
+-------
+
+### [Stack](lists/stack.md)
 
 >A list of helpful resources for the stack in Team Treehouse's Full Stack JavaScript Techdegree.  Links to support docs, helpful articles, snippets, cheatsheets, code practice, etc.
 
@@ -32,10 +36,6 @@
 [Pug](lists/stack.md/#pug) ·
 [SQL](lists/stack.md/#sql) ·
 [Design](lists/stack.md/#design)
-
--------
-
-## [Techdegree FAQs](https://teamtreehouse.com/library/techdegree-faqs)
 
 -------
 
