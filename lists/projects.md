@@ -18,16 +18,21 @@
 
 ### Page Index
 
-1. **[Random Quote Generator](#1-random-quote-generator)**
-2. **[List Pagination and Filtering](#2-list-pagination-and-filtering)**
-3. **[Interactive Form](#3-interactive-form)**
-4. **[OOP Game Show App](#4-oop-game-show-app)**
-5. **[Public API Requests](#5-public-api-requests)**
-6. **[Static Node.js and Express Site](#6-static-node.js-and-express-site)**
-7. **[React Flickr Gallery](#7-react-flickr-gallery)**
-8. **[SQL Library Manager](#8-sql-library-manager)**
-9. **[REST API](#9-rest-api)**
-10. **[Full Stack App with React and a REST API](#10-full-stack-app-with-react-and-a-rest-api)**
+- [!Full Stack JavaScript Techdegree Full Stack JavaScript Techdegree](#Full-Stack-JavaScript-Techdegree-Full-Stack-JavaScript-Techdegree)
+- [Projects](#Projects)
+    - [Main Index](#Main-Index)
+    - [Page Index](#Page-Index)
+  - [1 Random Quote Generator](#1-Random-Quote-Generator)
+  - [2 List Pagination and Filtering](#2-List-Pagination-and-Filtering)
+  - [3 Interactive Form](#3-Interactive-Form)
+  - [4 OOP Game Show App](#4-OOP-Game-Show-App)
+  - [5 Public API Requests](#5-Public-API-Requests)
+  - [6-Static Node.js and Express Site](#6-Static-Nodejs-and-Express-Site)
+  - [7 React Flickr Gallery](#7-React-Flickr-Gallery)
+  - [8 SQL Library Manager](#8-SQL-Library-Manager)
+  - [9 REST API](#9-REST-API)
+  - [10 Full Stack App with React and a REST API](#10-Full-Stack-App-with-React-and-a-REST-API)
+    - [Main Index](#Main-Index-1)
 
 -------
 
@@ -45,9 +50,13 @@
 
 ## 3 Interactive Form
 
+* **[Study Guide](https://drive.google.com/file/d/1Vw658-9KUiUZ5yHaABvkytC9W2QBYiW_/view?usp=sharing)**
+
 -------
 
 ## 4 OOP Game Show App
+
+* **[Study Guide](https://drive.google.com/file/d/1r1oBLk7w5KXnQRBuPmVo0EDNeY_I7EjW/view?usp=sharing)**
 
 -------
 

@@ -66,6 +66,7 @@
 
 * **[Code Fights - Code Challenges](https://codefights.com/arcade)**
 * **[30 Days of Vanilla JS Coding Challenges](https://javascript30.com/)**
+* **[List of Code Games](https://skillcrush.com/2017/04/03/free-coding-games/)**
 
 ### Regex
 
@@ -148,18 +149,26 @@
 ## SQL
 
 * **[MySQL](https://dev.mysql.com/doc/)**
-* **[Sequalize](http://docs.sequelizejs.com/)**
+* **[Sequelize](http://docs.sequelizejs.com/)**
+* **[DB Browser](https://sqlitebrowser.org/)**
 
 -------
 
-## Design
+## REST API
+
+* **[Postman](https://www.getpostman.com/)**
+
+-------
+
+## Web Design
+(For those interested in such things. :smiley: )
 
 ### Resources
 
 * **[Design Section of the Treehouse Library](https://teamtreehouse.com/library/topic:design)**
 * **[CSS Section of this Repo](stack.md/#css)**
 * **[Material Design](https://material.io/design/)**
-* **[OPtimizing Images for the Web](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization)**
+* **[Optimizing Images for the Web](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization)**
 * **[Cool Color Picker](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)**
 * **[SVG - MDN](https://developer.mozilla.org/en-US/docs/Web/SVG)**
 * **[Free SVG Editor](https://inkscape.org/en/)**
